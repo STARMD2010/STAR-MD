@@ -6,14 +6,14 @@
   </p>
 <div align="center">
 
-| [![HUNCHO KE](https://i.ibb.co/VLWqGgF/Screenshot-20241013-181210.jpg?lenght=50width=50)](https://github.com/Sammy392)|
+| [![STAR MD](https://i.ibb.co/DLbbPZ9/IMG-20241031-WA0693.jpg?lenght=50width=50)](https://github.com/STARMD2010)|
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=WESTHAM-MD+100%+Is+Safe+on+Heroku" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=STAR-MD+100%+Is+Safe+on+Heroku" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-HUNCHO TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
