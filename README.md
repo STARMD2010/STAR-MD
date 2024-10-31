@@ -1,8 +1,8 @@
 # STAR-MD
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## STAR-MD BY HUNCHO
+## STAR-MD BOT⚡🎁
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WESTHAM+MD+;A+WHATSAPP+BOT;CREATED+BY+HUNCHO+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=STAR+MD+;A+WHATSAPP+BOT;CREATED+BY+STAR+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
